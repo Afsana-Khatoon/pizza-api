@@ -8,6 +8,7 @@ Create a new database on the MongoDB Compass:
 Install all the dependencies from Requirement.txt
 
 To run the project, run the command-
+
 python manage.py runserver
 
 All the data inside the database can be accessed from the django admin panel:
