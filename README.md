@@ -1,8 +1,11 @@
 # pizza-api
 
 Fistly pull the code and connect the Django project's(name: pizzaproject) database with your MongoDB Compass
-Create a new database on the MongoDB Compass:
+
+All you have to do is to create a new database on the MongoDB Compass, where:
+
   The database name on MongoDB Compass = mongodatabase
+  
   The collection name on MongoDB Compass = mongocollection
   
 Install all the dependencies from Requirement.txt
